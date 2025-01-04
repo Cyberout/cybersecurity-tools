@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à seção de **Segurança Ofensiva - Aplicações Web** do repositório da [Cyberout Security](https://www.cyberout.com.br). Aqui, reunimos uma coleção abrangente de ferramentas, tutoriais e recursos para auxiliar profissionais e entusiastas na realização de testes de penetração e na análise de segurança de aplicações web. Nosso objetivo é fornecer um ponto de partida sólido para a identificação e mitigação de vulnerabilidades, alinhando-se às melhores práticas do setor.
+Bem-vindo à seção de **Segurança Ofensiva - Aplicações Web** do repositório, reunimos uma coleção de ferramentas, tutoriais e recursos para auxiliar profissionais e entusiastas na realização de testes de penetração e na análise de segurança de aplicações web. Nosso objetivo é fornecer um ponto de partida sólido para a identificação e mitigação de vulnerabilidades, alinhando-se às melhores práticas do setor.
 
 ## Ferramentas Populares
 
