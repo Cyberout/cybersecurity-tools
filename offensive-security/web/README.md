@@ -261,9 +261,6 @@ Bem-vindo à seção de **Segurança Ofensiva - Aplicações Web** do repositór
 - **Recursos Pentest:** Coleção de recursos incríveis para testes de penetração.
   - [GitHub](https://github.com/marroocamp/Recursos-pentest)
 
-## Sobre a Cyberout Security
-
-A [Cyberout Security](https://www.cyberout.com.br) é uma empresa especializada em segurança cibernética, dedicada a fornecer soluções avançadas para proteção de informações e infraestrutura digital. Nosso compromisso é com a excelência e a inovação, oferecendo serviços que garantem a segurança e a integridade dos dados de nossos clientes.
 
 ---
 
