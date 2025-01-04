@@ -1,10 +1,10 @@
-# Cyberout Security - Repositório de Ferramentas e Recursos
+# Cyberout - Repositório de Ferramentas e Recursos
 
 Bem-vindo ao repositório oficial da [Cyberout Security](https://www.cyberout.com.br). Este espaço foi criado para consolidar ferramentas, guias e recursos que auxiliam profissionais de segurança cibernética na identificação e mitigação de vulnerabilidades em sistemas e aplicações.
 
 ## Objetivo
 
-O repositório é estruturado para oferecer conteúdos organizados e especializados nas principais áreas de segurança ofensiva, com foco em:
+O repositório é estruturado para oferecer conteúdos organizados e especializados nas principais áreas de segurança ofensiva:
 
 - Testes de segurança em aplicações web
 - Avaliação de APIs
